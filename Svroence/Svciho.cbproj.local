@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020 12 26 19:03:11.931.cbproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Svciho.cbproj</Transaction>
+    <Transaction>2020 12 26 19:21:19.016.cpp,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Administrator\Desktop\Svroence\Unit1.cpp</Transaction>
+    <Transaction>2020 12 26 19:21:19.016.h,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Administrator\Desktop\Svroence\Unit1.h</Transaction>
+    <Transaction>2020 12 26 19:21:19.016.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Administrator\Desktop\Svroence\Unit1.dfm</Transaction>
+    <Transaction>2020 12 26 19:21:20.777.cbproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Svciho.cbproj=C:\Users\Administrator\Desktop\Svroence\Svciho.cbproj</Transaction>
+    <Transaction>2020 12 26 23:38:24.640.h,C:\Users\Administrator\Desktop\Svroence\File1.h=C:\Users\Administrator\Desktop\Svroence\Fonksiyonlar.h</Transaction>
+  </Transactions>
+</BorlandProject>
